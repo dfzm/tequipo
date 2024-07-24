@@ -18,8 +18,8 @@
     <p id="description">Descripción</p>
     <p id="contact">Contacto</p>
 
-    <a href="/web/page">Ir a la página</a>
+    <a href="/tequipo/page">Ir a la página</a>
 
-    <script src="/web/main.js"></script>
+    <script src="/tequipo/main.js"></script>
 </body>
 </html>
